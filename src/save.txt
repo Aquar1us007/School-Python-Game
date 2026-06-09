@@ -1,0 +1,4 @@
+score=0
+week=0
+resources=food:25,wood:25,stone:25
+tile=64,64,1
